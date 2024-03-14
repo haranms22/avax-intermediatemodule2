@@ -68,9 +68,10 @@ To get this project up and running on your local environment, follow these steps
 - **`README.md`**: Documentation for the project.
 
 This template is designed to be flexible and extendable for building your own Ethereum DApps.
--#HARANMS22
--METACRAFTERS ID:-haran321
+
 ## Additional Information
 
 - Ensure Node.js and npm are installed on your computer before starting.
 - For interacting with Ethereum wallets in the browser, the MetaMask extension should be installed.
+- HARANMS22
+-METACRAFTERS ID:-haran321
